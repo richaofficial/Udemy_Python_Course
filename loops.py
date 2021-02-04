@@ -14,5 +14,18 @@ mypairs = [(1,2),(3,4),(5,6)]
 
 for (tup1,tup2) in mypairs:
     print(tup1)
+
+
+for item in range(20):
+    print(item)
+
+x= [1,2,3,4]
+
+out=[]
+for num in x:
+    out.append(num**2)
+
+print(out)
+
     
 

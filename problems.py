@@ -1,0 +1,2 @@
+stringBits('hello')
+print
