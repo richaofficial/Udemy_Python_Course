@@ -1,0 +1,58 @@
+In AWS course:
+
+I have started the AWS account and set up the region.
+Started with S3 Services.
+
+Data storage mechanism where we store our pictures, videos.
+
+Dropbox—>Used S3 in the backend
+
+Object(files) based storage
+
+The data is spread across multiple devices and facilities
+
+File Size can be from O bytes to 5 TB
+
+There is unlimited storage
+Files are stored in a bucket
+
+
+S3
+account
+Bucket
+User interface(account)
+PUT operation
+
+
+Bucket name has to be unique
+S3 Provides developers and
+AMazon S3 is easy to use
+Durability and high Scalability
+Tiered Storage Available
+
+
+Bucket storage is happen in Object level
+
+
+Created a S3 bucket and uploaded a image in it.
+Feautures of S3 bucket:
+S3 Standar- Availability and Durability
+S3-IA(infrequently accessed): lower fees than S3
+Reduce redundancy Storage: Designed to provide 99.99 durability
+Glacier- Archiving the data only
+
+
+Properties of S3 bucket:
+
+Versioning
+Server access logging- where do you want to keep the log after login in. Target bucket
+
+Who and all and when accessing the bucket
+
+Object Level Logging:
+
+Enable by cloud trail—>assign the cloud trail  and then assign it to OLL
+
+Events log—>Read/Write
+
+Events notifications
